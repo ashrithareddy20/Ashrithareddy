@@ -1,0 +1,3 @@
+### **Restaurant Reservation System - Short Description**  
+
+The **Restaurant Reservation System** is a **dynamic table booking application** that allows customers to reserve seats by entering their **name, phone number, and guest count**. The system automatically **updates available seats**, displays **check-in and check-out times**, and provides options to **checkout or delete reservations**. It includes a **menu section**, real-time **seat availability tracking**, and **toast notifications** for a smooth user experience. Designed for **efficiency and ease of use**, it ensures that reservations are managed without exceeding capacity while providing an interactive and modern interface
