@@ -1,0 +1,47 @@
+.menu-heading {
+  font-size: 20px;
+  margin-top: 20px;
+  color: #ffd700;
+}
+
+.menu-list {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.menu-list li {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #fff;
+}
+
+.seats-left {
+  font-size: 18px;
+  font-weight: bold;
+  background: rgba(255, 255, 255, 0.3);
+  padding: 5px 10px;
+  border-radius: 8px;
+}
+
+.seat-count {
+  font-size: 22px;
+  font-weight: bold;
+  color: #ffd700;
+}
+
+.checked-out {
+  background: rgba(0, 255, 0, 0.3);
+}
+
+.toast {
+  position: absolute;
+  top: 10px;
+  background: black;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 8px;
+}
